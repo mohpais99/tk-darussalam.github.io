@@ -1,0 +1,9 @@
+@media screen and (max-width: 770px){
+    .position {
+        text-align: right;
+    }
+
+    .mr-4 {
+        margin-right: 50px;
+    }
+}
